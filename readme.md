@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## El Mundo del Arte
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,139 +8,70 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : El Mundo del Arte
 
-**Web:**   (url github.io)
+**Web:**   https://anabegu.github.io/hipanni
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Ana Belén Gutiérrez Vacas
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Quiz educativo realizado sobre obras artisticas y una breve sección explicanso mis obras de arte realizadas a lo largo de la carrera
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  juego 
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Resolución:** 600x400px 
 
-(insertar imágenes a resolucion de 100px alto)
+**Probado en:**   Google Chrome 
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
-
+**Tamaño proyecto:** 180KB
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
-
-**Medios** (donde se tiene presencia relacionada):
-
-- Github:
-- Twitter
-- Instagram
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+**Fecha** : 16/06/2021
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
-
+En mi proyecto podemos encontrar varias secciones , para comenzar, una portada , con un menu en el cual podras regular ell volumen de la música o  elegir si ir a  una sección de galeria de obras mias o irte a un quiz de preguntas sobre arte , solo tienes una vida , lo que significa que si te equivocas el juego te llevara a una escena de error y tendras que volver a empezar , si logras superar todas las preguntas , te guiara a una escena donde te felicitara y de ahí a la escena principal, en cada una de las escenas ahi varios botones que te dan la posivilidad de retroceder y volver a la pantalla inicial , o al menu.
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
-
-
-# 3. Metodología
-
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
-
-
+!En la meoria de Word
 
 ### Etapa 1: Ideación de proyecto
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
+Me he inspirado en el típico juego de Preguntados , y de paso , ya que el Quiz trata de arte he querido tambien meterle algunos cuadros realizados por mi
 
 **Motivación de la propuesta** 
-
-Este  proyecto es interesante porque ... 
-
-
+No solo es un juego que a su vez tiene una función educativa , si no que en mi caso y como ya he dicho me ayuda a promover mis creaciones tambien
 
 **Publico / audiencia**
 
-- Orientado a 
-
-
-
+- Orientado a todo tipo de público 
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
 - Juego. 
-- Video 
+- Linea de tiempo
+- sonidos
+- conmutadores de sonido
+- imagenes
 - Instrucciones y ayuda al usuario 
 - Menús y elementos de navegación (botones)
-- etc.
-
 
 
 ### Etapa 3: Problemas identificados
-
-(que consideras que no  funciona correctamente y por qué )
-
-
-
+Todo funciona correctamente , excepto en los botones de herramientas y vuelta a la pagina inicial que tienes que pulsar el boton de color y no el simbolo para que funcione correctamente.
 # 4. Conclusiones 
+Me gustaría aprender basntante más ya que me parece algo bastante util y entretenido, sin embargo a causa de el poco tiempo disponible debido a las fechas de entregas en las que estamos no he podido realizar un proyecto mucho más largo ni complejo, sin embargo quedo satisfecha puesto que bajo mi punto de vista me ha salido bien y es bastante entretenido.
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
-
-
-# 5 Referencias 
-
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: YOU TUBE
+* Imágenes: Algunas descargadas de google y otras imagenes propias 
+* Tipografía : Hay variedad de tipografía y tamaños , desde ComicSans hasta Adobe Fan Heaiti
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
-
-
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
-
-Mayo 2020
+ 2021
